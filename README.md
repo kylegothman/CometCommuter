@@ -10,7 +10,7 @@ A PHP + MySQL commuter dashboard with station, line, and alert data.
 ## 1) Clone and enter the project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/kylegothman/CometCommuter.git
 cd CometCommuter
 ```
 
