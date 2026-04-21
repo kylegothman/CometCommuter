@@ -1,6 +1,6 @@
 <?php
 session_start();
-define('ADMIN_PASSWORD','cometadmin2025');
+define('ADMIN_PASSWORD','cometadmin2026');
 $error='';
 if($_SERVER['REQUEST_METHOD']==='POST'){
   if(($_POST['password']??'')===ADMIN_PASSWORD){$_SESSION['admin_logged_in']=true;header('Location: admin_panel.php');exit;}
