@@ -68,7 +68,7 @@ comet-commuter/
 ### Admin Panel
 
 1. Navigate to `http://localhost/comet-commuter/admin_login.php`.
-2. Enter the password: `cometadmin2025`.
+2. Enter the password: `cometadmin2026`.
 3. Use the panel to insert or delete stations, lines, and line-station associations. Alerts can be viewed and deleted. All delete operations cascade per the foreign key constraints.
 
 ## Database Configuration
